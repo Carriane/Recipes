@@ -1,6 +1,9 @@
 * {
-    background-image: url(jasmine.png);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: palegoldenrod;
 }
 
 h1, h3, p {
@@ -9,7 +12,7 @@ h1, h3, p {
 }
 
 img {
-    max-width: 100%;
-    height: auto;
+    height: 200px;
+    width: 200px;
     border-radius: 10px;
 }
